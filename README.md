@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samuelbennett30,a third-year Electronics and Communication Engineering (B.Tech) student at Government College Of Engineering Kannur (GCEK), Kannur, Kerala, India.
+- 👋 Hi, I’m @samuelbennett30 ,a third-year Electronics and Communication Engineering (B.Tech) student at Government College Of Engineering Kannur (GCEK), Kannur, Kerala, India.
 - 👀 I’m interested in Web Development
 - 😎 Into Coding and Designing
 - 🌱 I’m a basic Machine Learner
