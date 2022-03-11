@@ -8,15 +8,12 @@
 samuelbennett30/samuelbennett30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-class SamuelBennett():
-    
-  def __init__(self):
-    self.name = "Samuel Bennett";
-    self.username = "samuelbennett30";
-    self.location = "Kozhikode, India";
-  
-  def __str__(self):
-    return self.name
+<br>
 
-if __name__ == '__main__':
-    me = SamuelBennett()
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
+</p>
