@@ -3,14 +3,17 @@
 **Embedded Firmware & Platform Validation Engineer**  
 Automotive • RTOS • Embedded C • Diagnostics • CI Automation
 
+🎓   Graduate in Electrical and Electronics Engineering from Government College of Engineering Kannur.
+
 ---
 
-## 😎 About Me
+## 👨🏻‍💻 About Me
 I am an automotive embedded engineer with **3.6+ years of industry experience** at a Tier-1 supplier, working on **production Body Control Modules (BCM)**.
 
 My background spans **system-level validation, ECU diagnostics (UDS), CAN/LIN communication, and CI-driven automation**. I am currently transitioning deeper into **embedded firmware and platform-level roles**, strengthening my expertise in **Embedded C, RTOS, and Embedded Linux**, while leveraging real-world production experience.
 
 I focus on building **robust, debuggable, and production-ready embedded systems** — not demo-only code.
+🌱   Learning more about Automation, Systems Design and Artificial Intelligence.
 
 ---
 
