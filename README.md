@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @samuelbennett30 ,a third-year Electronics and Communication Engineering (B.Tech) student at Government College Of Engineering Kannur (GCEK), Kannur, Kerala, India.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Samuel Bennett
+=======================================================================================================================================
 - 👀 I’m interested in Web Development
 - 😎 Into Coding and Designing
 - 🌱 I’m a basic Machine Learner
