@@ -5,7 +5,7 @@ Automotive • RTOS • Embedded C • Diagnostics • CI Automation
 
 ---
 
-## About Me
+## 😎 About Me
 I am an automotive embedded engineer with **3.6+ years of industry experience** at a Tier-1 supplier, working on **production Body Control Modules (BCM)**.
 
 My background spans **system-level validation, ECU diagnostics (UDS), CAN/LIN communication, and CI-driven automation**. I am currently transitioning deeper into **embedded firmware and platform-level roles**, strengthening my expertise in **Embedded C, RTOS, and Embedded Linux**, while leveraging real-world production experience.
@@ -14,32 +14,32 @@ I focus on building **robust, debuggable, and production-ready embedded systems*
 
 ---
 
-## Core Skills
+## 🛠 Core Skills
 
-### Embedded & Firmware
+### 🖥 Embedded & Firmware
 - Embedded C / C++
 - RTOS fundamentals (FreeRTOS concepts, scheduling, IPC)
 - Microcontroller boot flow & memory layout
 - Interrupts, timing analysis, and real-time constraints
 
-### Automotive & Protocols
+### 🌐 Automotive & Protocols
 - CAN, LIN
 - UDS (ISO 14229)
 - ECU diagnostics and EOL testing
 
-### Validation & Automation
+### ⚙️ Validation & Automation
 - System and firmware validation
 - Python-based test automation
 - CI/CD pipelines (Jenkins)
 - CANoe, log analysis, root-cause investigation
 
-### Tools & Environment
+### 🔧 Tools & Environment
 - Git, Linux, GCC
 - Debugging via logs, assertions, and failure analysis
 
 ---
 
-## Repositories (Work in Progress)
+## 🌱 Repositories (Work in Progress)
 
 This GitHub documents my **hands-on transition into embedded firmware and platform validation**.
 
@@ -80,9 +80,9 @@ Especially positions where **hardware, firmware, and validation intersect**.
 
 ---
 
-## Contact
-- LinkedIn: *(add your LinkedIn URL here)*  
-- Email: *(optional)*
+## 📫 Contact
+- LinkedIn: *https://www.linkedin.com/in/samuelbennett30/*  
+- Email: *samuelcb2000@gmail.com*
 
 ---
 
