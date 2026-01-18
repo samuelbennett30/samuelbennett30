@@ -2,7 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 Embedded Firmware & Platform Validation Engineer
-------------------------------------------------
+Automotive | RTOS | Embedded C | Diagnostics | CI Automation
+---------------------------------------------------------------
 
 I am an automotive embedded engineer with 3.6+ years of industry experience at a Tier‑1 supplier, working on production Body Control Modules (BCM). My background spans system‑level validation, diagnostics (UDS), CAN/LIN communication, and CI‑driven automation.
 
