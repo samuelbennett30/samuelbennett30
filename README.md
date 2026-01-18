@@ -12,7 +12,7 @@ I am an automotive embedded engineer with **3.6+ years of industry experience** 
 
 My background spans **system-level validation, ECU diagnostics (UDS), CAN/LIN communication, and CI-driven automation**. I am currently transitioning deeper into **embedded firmware and platform-level roles**, strengthening my expertise in **Embedded C, RTOS, and Embedded Linux**, while leveraging real-world production experience.
 
-I focus on building **robust, debuggable, and production-ready embedded systems** — not demo-only code.
+I focus on building **robust, debuggable, and production-ready embedded systems** — not demo-only code. <br>
 🌱   Learning more about Automation, Systems Design and Artificial Intelligence.
 
 ---
