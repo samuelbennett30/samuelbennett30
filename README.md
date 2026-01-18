@@ -29,6 +29,7 @@ I focus on building **robust, debuggable, and production-ready embedded systems*
 - CAN, LIN
 - UDS (ISO 14229)
 - ECU diagnostics and EOL testing
+- SOMEIP
 
 ### ⚙️ Validation & Automation
 - System and firmware validation
@@ -38,8 +39,10 @@ I focus on building **robust, debuggable, and production-ready embedded systems*
 
 ### 🔧 Tools & Environment
 - Git, Linux, GCC
-- Debugging via logs, assertions, and failure analysis
-
+- Debugging via logs, assertions, and failure analysis (Wireshark)
+- WinIdea
+- IBM Doors, MKS Integrity, JIRA, Confluence
+- 
 ---
 
 ## 🌱 Repositories (Work in Progress)
