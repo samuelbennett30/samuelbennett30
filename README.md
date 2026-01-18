@@ -3,7 +3,7 @@
 **Embedded Firmware & Platform Validation Engineer**  
 Automotive • RTOS • Embedded C • Diagnostics • CI Automation
 
-🎓   Graduate in Electrical and Electronics Engineering from Government College of Engineering Kannur.
+🎓   Graduate in Electronics and Communication Engineering from Government College of Engineering Kannur (GCEK).
 
 ---
 
